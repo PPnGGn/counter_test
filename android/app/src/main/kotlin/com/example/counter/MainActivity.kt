@@ -1,4 +1,4 @@
-package com.example.counter_test
+package com.example.counter
 
 import io.flutter.embedding.android.FlutterActivity
 

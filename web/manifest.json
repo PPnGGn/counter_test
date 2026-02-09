@@ -1,6 +1,6 @@
 {
-    "name": "counter_test",
-    "short_name": "counter_test",
+    "name": "counter",
+    "short_name": "counter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
